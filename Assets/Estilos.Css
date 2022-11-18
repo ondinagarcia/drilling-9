@@ -16,11 +16,23 @@ header{
 .img{
     width: 10%;
     height: 10%;
+    margin-right:50%;
 }
 
-.div-tex{
-    margin-left: -50%;
+.navegar{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+
+    
+
 }
+
+.lista{
+    align-items: center;
+    margin-left: 5%;
+}
+
 
     
 
