@@ -29,15 +29,40 @@ header{
 }
 
 .lista{
-    align-items: center;
-    margin-left: 5%;
+    display: flex;
+    justify-content: center;
+    align-self: center;
+    padding-left:  3%;
+
+}
+.item{
+    display: flex;
+    margin-bottom: 0;
+    padding-right: 3%;
+}
+
+h1{
+    text-align: center;
+}
+.contenedor-1{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
+.img-1{
+    width: 100%;
+    height: 10%;
+    border-style: outset;
 }
 
 
+.caja{
+margin-right: 20px;
+}
+
+.contenedor{
     
-
-
-
+}
 
 
 
